@@ -4,7 +4,7 @@
  
  
  #########################################
-                  TODO 
+ 		  TODO 
  
  - Scan only a certain portrange
  - Create documentation on how to use
@@ -16,7 +16,7 @@
  
  
  #########################################
- Pull Requests Guidelines:
+ 	Pull Requests Guidelines:
  
  - The pull request code size should be 
    managable and well documented.
