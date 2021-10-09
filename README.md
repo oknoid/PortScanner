@@ -2,6 +2,7 @@
  
  Port scanner is a program that scans the ports of a given Server and return the open ports. 
  
+ The CyberSecurity Project Discord: https://discord.gg/uYaxRSGqku
  
  #########################################
  - TODO:
