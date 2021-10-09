@@ -4,7 +4,7 @@
  
  
  #########################################
- - TODO 
+ - TODO:
  
  - Scan only a certain portrange
  - Create documentation on how to use
